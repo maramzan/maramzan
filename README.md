@@ -1,14 +1,3 @@
-<!-- Profile Banner -->
-<p align="center">
-  <!-- Removed the provided image as requested -->
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38F9D7&center=true&vCenter=true&width=435&lines=Web+%26+Mobile+App+Developer;ReactNext.js+%7C+React+Native+Expert;6%2B+years+experience" alt="Typing SVG" />
-</p>
-
----
-
 ### 👋 Hi there! I'm Muhammad Arsalan
 
 I’m a **Web and Mobile App Developer** with 6+ years of experience with **React.js**, **Next.js**, and **React Native**. I love building performant, scalable, and delightful digital experiences.
