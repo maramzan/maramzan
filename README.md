@@ -1,17 +1,17 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=200&section=header&text=Muhammad%20Arsalan&fontSize=48&fontColor=fff&animation=twinkling" alt="banner"/>
+  <!-- Removed the provided image as requested -->
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38F9D7&center=true&vCenter=true&width=435&lines=Web+%26+Mobile+App+Developer;React%2FNext.js+%7C+React+Native+Expert;6%2B+years+experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38F9D7&center=true&vCenter=true&width=435&lines=Web+%26+Mobile+App+Developer;ReactNext.js+%7C+React+Native+Expert;6%2B+years+experience" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👋 Hi there! I'm Muhammad Arsalan
 
-I'm a passionate **Web and Mobile App Developer** with 6+ years of hands-on experience specializing in **React**, **Next.js**, and **React Native**. I love building performant, scalable, and delightful digital experiences.
+I’m a **Web and Mobile App Developer** with 6+ years of experience with **React.js**, **Next.js**, and **React Native**. I love building performant, scalable, and delightful digital experiences.
 
 ---
 
@@ -44,7 +44,6 @@ I'm a passionate **Web and Mobile App Developer** with 6+ years of hands-on expe
 #### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maramzan&show_icons=true&theme=radical" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maramzan&theme=radical" height="170"/>
 </p>
 <p align="center">
