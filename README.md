@@ -32,7 +32,7 @@ I’m a **Web and Mobile App Developer** with 6+ years of experience with **Reac
 #### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maramzan&theme=radical" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=maramzan&theme=radical" height="170"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maramzan&layout=compact&theme=radical" height="140"/>
