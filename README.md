@@ -31,6 +31,11 @@ I’m a **Web and Mobile App Developer** with 6+ years of experience with **Reac
 
 #### 📊 GitHub Stats
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maramzan&show_icons=true&hide=prs,issues&count_private=true&theme=radical&hide_title=true&include_all_commits=false&custom_title=Commits%20(last%20year)&card_width=400&rank_icon=github" height="140"/>
+</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=maramzan&theme=radical" height="170"/>
 </p>
