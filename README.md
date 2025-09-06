@@ -31,16 +31,38 @@ I’m a **Web and Mobile App Developer** with 6+ years of experience with **Reac
 
 #### 📊 GitHub Stats
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maramzan&show_icons=true&hide=prs,issues&count_private=true&theme=radical&hide_title=true&include_all_commits=false&custom_title=Commits%20(last%20year)&card_width=400&rank_icon=github" height="140"/>
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=maramzan&theme=radical" height="170"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maramzan&layout=compact&theme=radical" height="140"/>
+</p>
+
+---
+
+### 🐱 My GitHub Data
+
+<p align="center">
+  <!-- Main summary card (contributions, repos, etc) -->
+  <img src="https://raw.githubusercontent.com/maramzan/maramzan/profile-summary-card-output/production/profile-summary-card-output/github/0-profile-details.svg" height="180"/>
+</p>
+
+<p align="center">
+  <!-- Commits by hour card -->
+  <img src="https://raw.githubusercontent.com/maramzan/maramzan/profile-summary-card-output/production/profile-summary-card-output/github/2-most-commit-time.svg" height="180"/>
+</p>
+
+<p align="center">
+  <!-- Commits by day card -->
+  <img src="https://raw.githubusercontent.com/maramzan/maramzan/profile-summary-card-output/production/profile-summary-card-output/github/3-most-active-day.svg" height="180"/>
+</p>
+
+<p align="center">
+  <!-- Languages card -->
+  <img src="https://raw.githubusercontent.com/maramzan/maramzan/profile-summary-card-output/production/profile-summary-card-output/github/1-repos-per-language.svg" height="180"/>
 </p>
 
 ---
@@ -68,4 +90,4 @@ I’m a **Web and Mobile App Developer** with 6+ years of experience with **Reac
   <b>“Code is like humor. When you have to explain it, it’s bad.”</b> 
 </p>
 
-<!-- Feel free to replace social/email links above with your own! -->
+<!-- Feel free to replace social/email links above with your own! -->s
